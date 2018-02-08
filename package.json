@@ -1,0 +1,22 @@
+{
+  "name": "oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entrypoint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narutokaze/Lab.git"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/narutokaze/Lab/issues"
+  },
+  "homepage": "https://github.com/narutokaze/Lab#readme",
+  "dependencies": {
+    "oracledb": "^2.0.15"
+  }
+}
